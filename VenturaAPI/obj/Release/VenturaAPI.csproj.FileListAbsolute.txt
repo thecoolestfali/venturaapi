@@ -1,0 +1,6 @@
+C:\Users\Fali\source\repos\VenturaAPI\VenturaAPI\bin\Release\VenturaAPI.dll
+C:\Users\Fali\source\repos\VenturaAPI\VenturaAPI\bin\Release\VenturaAPI.pdb
+C:\Users\Fali\source\repos\VenturaAPI\VenturaAPI\obj\Release\VenturaAPI.csproj.AssemblyReference.cache
+C:\Users\Fali\source\repos\VenturaAPI\VenturaAPI\obj\Release\VenturaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Fali\source\repos\VenturaAPI\VenturaAPI\obj\Release\VenturaAPI.dll
+C:\Users\Fali\source\repos\VenturaAPI\VenturaAPI\obj\Release\VenturaAPI.pdb
